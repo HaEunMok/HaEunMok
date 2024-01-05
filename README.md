@@ -1,9 +1,12 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaEunMok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Hi there 👋
 ---
 - 🔭 I’m currently interested on **Data Engineering and Data science**...
 - 🌱 I’m currently studying **Django, Data Engineering**...
 
----
+</br>
+
 ### study
 ---
 - [ML](https://github.com/HaEunMok/ML)
@@ -11,7 +14,8 @@
 - [Django](https://github.com/HaEunMok/Django_test)
 - [GIS](https://github.com/HaEunMok/GIS)
 
----
+</br>
+
 ### Project
 ---
 - [KUBIC middleware](https://github.com/HaEunMok/TIBigdataMiddleware)
@@ -20,7 +24,8 @@
 - [DIVE 학회활동](https://github.com/HaEunMok/D.I.V.E)
 - [Human-Computer-Interaction-Mindwave](https://github.com/HaEunMok/Human-Computer-Interaction-Mindwave)
 - [Corona_Visualization](https://github.com/HaEunMok/Corona_Visualization)
----
+
+</br>
 
 ### Language and Tool
 ---
